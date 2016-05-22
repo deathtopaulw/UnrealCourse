@@ -1,0 +1,10 @@
+#Unreal-provided junk
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+BuildingEscape/Content/StarterContent/
+
+#VisualStudio Files
+*.VC.db
